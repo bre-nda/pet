@@ -14,3 +14,8 @@ h2 {
 .toys {
     color: darkblue;
 }
+
+img {
+    border: darkgrey;
+    border-radius: 50px;
+}
