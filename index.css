@@ -17,5 +17,6 @@ h2 {
 
 img {
     border: darkgrey;
-    border-radius: 50px;
+    border-radius: 25px;
+    width: 25%;
 }
