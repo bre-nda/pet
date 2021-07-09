@@ -15,6 +15,6 @@ CSS
 ## Support and contact details
 Incase of anything or ideas feel free to contact me at brendaandeso4@gmail.com
 ### License
-[MIT]
+[MIT] (https://choosealicense.com/licenses/mit/)
 
 Copyright (c) [2021] [Brenda]
